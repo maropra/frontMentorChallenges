@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/maropra/frontMentorChallenges/tree/main/tarjeta-violeta)
+- Live Site URL: [Solution](https://maropra.github.io/frontMentorChallenges/tarjeta-violeta)
 
 
 ### Built with
@@ -40,7 +40,7 @@ Users should be able to:
 
 ## Author
 
-- GitHub - []()
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Instagram - [@yourusername](https://www.twitter.com/yourusername)
+- GitHub - [@maropra](https://github.com/maropra)
+- Frontend Mentor - [@maropra](https://www.frontendmentor.io/profile/maropra)
+- Instagram - [@maropradolce](https://www.instagram.com/maropradolce/)
 
